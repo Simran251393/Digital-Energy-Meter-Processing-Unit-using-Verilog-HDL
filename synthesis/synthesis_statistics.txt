@@ -1,0 +1,23 @@
+Digital Energy-Meter Processing Unit
+Yosys Synthesis Statistics
+
+Status: Success
+Top Module: energy_meter
+Library: Generic (Yosys internal)
+Run Mode: Script
+Warnings: None
+
+Total Cells: 594
+
+Logic Area by Resource:
+- AND cells: 289 (48.7%)
+- OR cells: 87 (14.6%)
+- SDFFE_PP0P cells: 48 (8.1%)
+
+Additional Output Values:
+- snap: 244215
+- rtl: 2294
+- fsm: -1
+- gate: 519126
+
+Synthesis completed successfully with no reported warnings.
