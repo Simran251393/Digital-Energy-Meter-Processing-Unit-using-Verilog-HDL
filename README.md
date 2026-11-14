@@ -50,6 +50,3 @@ synthesis/    - Synthesis reports
 physical_design/ - Physical-design files
 ```
 
-## Author
-
-**Simran Patra**
