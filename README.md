@@ -38,15 +38,14 @@ The RTL design was simulated using a Verilog testbench. The following operations
 - Verilog HDL
 - RTL simulation
 - Yosys – Logic synthesis
-- OpenROAD – Physical-design exploration
+
 
 ## Project Structure
 
 ```text
-rtl/          - Verilog design
-testbench/    - Testbench files
+rtl/          - Verilog design & Testbench files
 simulation/   - Simulation results
 synthesis/    - Synthesis reports
-physical_design/ - Physical-design files
+
 ```
 
